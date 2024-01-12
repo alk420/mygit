@@ -1,2 +1,2 @@
 # mygit
-this in my first repository
+This in my first repository
